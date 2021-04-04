@@ -17,4 +17,5 @@ The finished project shows a useable random password generator that is fully fun
 has real world application.
 
 
+![password-generator](https://user-images.githubusercontent.com/79487809/113500364-95169a80-94da-11eb-97f8-ab982b6b959d.png)
 
