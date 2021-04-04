@@ -22,6 +22,7 @@ function generatePassword (){
   }else{
     alert("Your password with be " + passLength + " characters.");
   }
+  // determine parameters
   var numberConfirm = confirm("Would you like to include numbers in your password?");
   var charConfirm = confirm("Would you like your password to include special characters?");
   var upperConfirm = confirm("Would you like to include capital letters in your password?");
@@ -42,7 +43,6 @@ function generatePassword (){
   return questionPara;
 }
 
-// determine parameters
 
 
 // Get references to the #generate element
